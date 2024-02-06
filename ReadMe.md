@@ -22,9 +22,9 @@ This project demonstrates the integration of API and GUI testing using a Docker 
    - Docker installed on your machine.
 
 2. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/AimanZahid1/Unit-Testing
-   cd UnitTesting
+ 
+   git clone https://github.com/AimanZahid1/TestAutomationSuite
+   cd TestAutomationSuite
    
 3. **Docker MetaBase Installation**
    [Install](https://www.metabase.com/docs/latest/installation-and-operation/running-metabase-on-docker)
