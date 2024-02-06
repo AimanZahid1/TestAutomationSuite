@@ -23,7 +23,7 @@ This project demonstrates the integration of API and GUI testing using a Docker 
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/haseebahmed248/UnitTesting
+   git clone https://github.com/AimanZahid1/Unit-Testing
    cd UnitTesting
    
 3. **Docker MetaBase Installation**
